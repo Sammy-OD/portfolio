@@ -116,7 +116,7 @@ html {
   display: flex;
   background: url("../img/prog.jpg") center no-repeat;
   height: 100vh;
-  min-height: 500px;
+  
   color: #fff;
   font-family: 'Ubuntu', sans-serif;
 }
